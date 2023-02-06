@@ -5,7 +5,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/olimortimer/laravelshoppingcart/v/unstable)](https://packagist.org/packages/olimortimer/laravelshoppingcart)
 [![License](https://poser.pugx.org/olimortimer/laravelshoppingcart/license)](https://packagist.org/packages/olimortimer/laravelshoppingcart)
 
-A simple shoppingcart implementation for Laravel 5, 6 and 7.
+A simple shoppingcart implementation for Laravel 5, 6, 7, 8, 9 and 10
 
 ## Installation
 
